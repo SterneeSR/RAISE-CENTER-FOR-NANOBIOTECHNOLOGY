@@ -1,0 +1,11 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/files/home/home.html" },
+    { "source": "/contact", "destination": "/files/contact/contact.html" },
+    { "source": "/home", "destination": "/files/home/home.html" },
+    { "source": "/events", "destination": "/files/events/events.html" },
+    { "source": "/RCN", "destination": "/files/RCN/membership.html" },
+    { "source": "/startups", "destination": "/files/startups/startups.html" },
+    { "source": "/team", "destination": "/files/team/teams.html" }
+  ]
+}
